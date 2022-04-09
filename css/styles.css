@@ -147,6 +147,55 @@ img {
 }
 
 
+/* INTRODUCTION */
+.introduction {
+  margin: 0;
+  padding: 160px 0;
+}
+
+.introduction-item {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.introduction-img {
+  width: 731px;
+  height: 500px;
+}
+
+.introduction-content {
+  margin: 0;
+  margin-left: -160px;
+  padding-top: 96px;
+  padding-left: 96px;
+  width: 100%;
+  max-width: 541px;
+  background-color: #fff;
+}
+
+.introduction-title {
+  margin: 0;
+  margin-bottom: 25px;
+  padding: 0;
+  font-family: Josefin Sans;
+  font-size: 48px;
+  font-weight: 300;
+  line-height: 48px;
+  text-transform: uppercase;
+}
+
+.introduction-text {
+  margin: 0;
+  padding: 0;
+  font-family: Alata;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  opacity: 0.5;
+}
+
+
 /* FOOTER */
 .footer {
   margin: 0;
